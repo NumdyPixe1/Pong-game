@@ -1,1 +1,1 @@
-# Pong_game
+# Just Pong game
